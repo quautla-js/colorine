@@ -1,0 +1,25 @@
+{
+  "name": "colorine",
+  "version": "1.1.0",
+  "description": "A Color Tools Library",
+  "main": "lib/colorine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quautla-js/colorine.git"
+  },
+  "keywords": [
+    "color",
+    "compare",
+    "diff",
+    "pallet"
+  ],
+  "author": "Quautla",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/quautla-js/colorine/issues"
+  },
+  "homepage": "https://github.com/quautla-js/colorine#readme"
+}
